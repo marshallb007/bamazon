@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like store front created using Node.js and MySQL",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "customer": "node BamazonCustomer.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marshallb007/bamazon"
+  },
+  "author": "Cason Gordy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshallb007/bamazon"
+  },
+  "homepage": "https://github.com/marshallb007/bamazon"
+}
